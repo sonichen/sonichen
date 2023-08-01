@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Rust, React**
 
-- 👨‍💻 All of my projects are available at XXX
+- 👨‍💻 All of my projects are available at **[https://sonichen.github.io/Project/](https://sonichen.github.io/Project/)**
 
-- 📝 I regularly write articles on XX
+- 📝 I regularly write articles on **[https://sonichen.github.io/](https://sonichen.github.io/)**
 
 - 💬 Ask me about **Git, Java, Vue, React, Vue, SQL and Linux**
 
 - 📫 How to reach me **yjchen047@gmail.com**
 
-- 📄 Know about my experiences [111](111)
+- 📄 Know about my experiences [**https://sonichen.github.io/About**](https://sonichen.github.io/About)
 
 - ⚡ Fun fact **swimming, music**
 
@@ -33,6 +33,3 @@
 
 <h3 align="left">My Github:</h3>
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sonichen&show_icons=true&locale=en&layout=compact"  alt="sonichen" /></p><p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sonichen&show_icons=true&locale=en"  alt="sonichen" /></p><p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sonichen&"  alt="sonichen" /></p>
-
-
-
