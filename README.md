@@ -1,5 +1,4 @@
 <h1 align="center">👋Hi there, I'm soni</h1>
-<h3 align="center">A passionate IT developer from China</h3>
 
 
 
