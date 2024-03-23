@@ -12,8 +12,8 @@
 <h3 align="left">Skills:</h3>
 
 - **Programming Language:** Java, JavaScript, Rust, Solidity
-- **Backend:** SpringBoot, SpringMVC, Mybatis
-- **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript
+- **Backend:** Java(SpringBoot, SpringMVC, Mybatis), Rust, NestJS
+- **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, TypeScript
 - **Storage / Cache:** MySQL, Redis, Elastic Search
 - **Tools:** Git, SVN, Docker,VuePress, WordPress, Vercel, GithubPage
 
