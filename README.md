@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 A graduate CS student at HKUST **seeking for new opportunities in** **HongKong**
+- 🔭 Software Engineer in Hong Kong
 - 👯 I’m looking to collaborate on Web Applications, Blockchain and any interesting projects.
 - 🌱 My Website: [https://sonichen.github.io/](https://sonichen.github.io/)
 - ✍ Write blogs on: [https://sonichen.github.io/notes/](https://sonichen.github.io/notes/)
